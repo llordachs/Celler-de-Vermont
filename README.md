@@ -3,7 +3,7 @@ Tema/motivació:
 La motivació principal del projecte Celler de Vermont és promoure una iniciativa sostenible i alhora, generar oportunitats de negoci per a una marca de vins ecològics i biodinàmics. Al mateix temps, hi ha una clara relació entre la iniciativa i la geografia, ja que el Celler de Vermont està ubicat en una zona rural dedicada a la producció de vins, i la creació de la pàgina web permetria als negocis locals dotar de més visibilitat als productes endògens de la zona.
 
 Dades/continguts: 
-Per a la meva pàgina web, he utilitzat les dades principals del meu projecte final de Grau Superior sobre la producció de vins biodinàmics al Baix Penedès. També he pres com a referència la pàgina web d'un productor de vi local, que m'ha aportat idees per ambientar la web. Pel que fa als continguts, he utilitzat imatges extretes de Google per donar una idea visual als clients sobre els productes que s'ofereixen.
+Per a la meva pàgina web, he utilitzat principalment el meu projecte final de Grau Superior sobre la producció de vins biodinàmics al Baix Penedès. També he pres com a referència la pàgina web d'un productor de vi local, que m'ha aportat idees per ambientar la web. Pel que fa als continguts, he utilitzat imatges extretes de Google per donar una idea visual als clients sobre els productes que s'ofereixen.
 
 ![postit bio](https://github.com/llordachs/Celler-de-Vermont/assets/130581184/3f3be13a-ac4c-47d1-b9d1-d205bca4caa4)
 
