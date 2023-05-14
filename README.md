@@ -4,7 +4,7 @@
 2. Dades/continguts: Per a la meva pàgina web, he utilitzat les dades principals del meu projecte final de Grau Superior sobre la producció de vins biodinàmics al Baix Penedès. També he pres com a referència la pàgina web d'un productor de vi local, que m'ha aportat idees per ambientar la web. Pel que fa als continguts, he utilitzat imatges extretes de Google per donar una idea visual als clients sobre els productes que s'ofereixen.
 
 3. Estructura de la web: La meva pàgina web té una estructura senzilla però sòlida. Està composta per un HTML que proporciona l'estructura de la pàgina, i un CSS que la dota del contingut esmentat anteriorment. També he fet ús de JavaScript per fer-la dinàmica i facilitar la circulació de l'usuari pels diferents apartats que la conformen.
-![postit bio](imatges/postit bio.png)
+![postit bio](imatges/postit bio.png) 
 
 4. Web responsive: La meva pàgina web és responsive, el que significa que està dissenyada per adaptar-se a diferents dimensions de pantalla. No obstant, aquest disseny és molt senzill i no s'adapta correctament a gairebé cap dimensions. Això pot ser un problema si els clients accedeixen a la pàgina des de dispositius mòbils o tauletes.
 
