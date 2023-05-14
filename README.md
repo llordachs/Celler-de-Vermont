@@ -13,3 +13,4 @@
 
 6. Dificultats/millores: La pàgina web té moltes oportunitats de millora en diversos sentits pel fet que començar-ne una des de zero amb pocs coneixements sobre la matèria requereix moltes hores i dedicació. Es podria millorar el mapa d'ubicació fent-ne un de propi, fer un disseny web més responsive, o introduïr més elements interactius al Javascript.
 
+![Captura](https://github.com/llordachs/Celler-de-Vermont/assets/130581184/b2aa07bf-4d4e-4ff0-855c-9b16cceb6599)
